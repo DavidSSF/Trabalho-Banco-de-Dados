@@ -6,7 +6,8 @@ Anderson Melo<p>
 Arthur Oliveira<p>
 David Saboia<p>
 Francisco Matheus<p>
-Francisco Ruan
+Francisco Ruan<p>
+Kalel Oliveira
 
 ### Escolha do tema do banco (06/10):
 
