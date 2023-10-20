@@ -54,7 +54,7 @@ Kalel Oliveira
 ### (08/10) Criação do Banco de Dados:
 ![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111543203/c7b6de86-a1e9-4dff-a981-1cd469a1d3d2)
 
-### (10/10 Criação de bateria de algoritmos testes para realização de CRUD com conexão entre php e banco de dados) - Backend Testes:
+
 
 
 
