@@ -36,7 +36,7 @@
 
 # Trabalho-Banco-de-Dados
 ## Etapa 01
-### Definição do grupo (05/10):
+### Definição do grupo (05 a 06/10):
 Ana Livia
 Anderson Melo
 Arthur Oliveira
