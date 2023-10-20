@@ -43,8 +43,8 @@ Kalel Oliveira<p>
 ### Etapas 02 e 03
 ### Criação do Modelo Entidade Relacionamento(MER) e Modelo Logico/Relacional:
 <div>
-  <img height= "300" width="350" src="https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/a8ec564a-5e8c-4b7e-8110-3aead65d07b2"/>
-  <img height= "300" width="350" src="https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/313d7bce-3181-43f8-b136-c5666cdf82e8"/>
+  <img height= "300" width="400" src="https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/a8ec564a-5e8c-4b7e-8110-3aead65d07b2"/>
+  <img height= "300" width="400" src="https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/313d7bce-3181-43f8-b136-c5666cdf82e8"/>
 </div>
 
 ### Etapas 04,05 e 6
