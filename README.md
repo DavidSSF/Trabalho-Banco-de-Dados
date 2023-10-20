@@ -13,13 +13,13 @@
 
 <h3 align="left">👩‍💻  Desenvolvedores </h3>
 
-> Ana Livia
-> Anderson Melo
-> Arthur Oliveira
-> David Saboia
-> Matheus Soares
-> Ruan Marques
-> Kalel Oliveira
+> Ana Livia <p>
+> Anderson Melo <p>
+> Arthur Oliveira<p>
+> David Saboia<p>
+> Matheus Soares<p>
+> Ruan Marques<p>
+> Kalel Oliveira<p>
 
 ###
 
