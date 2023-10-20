@@ -49,8 +49,10 @@ Kalel Oliveira
 ![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111543203/c7b6de86-a1e9-4dff-a981-1cd469a1d3d2)
 
 ### (10/10) Criação do Modelo Entidade Relacionamento(MER) e Modelo Logico/Relacional:
-![image](blob:https://web.whatsapp.com/594d5d54-ad99-4cc9-938c-f6ecdf8511bd)
-![image](blob:https://web.whatsapp.com/5db95be1-014d-47b2-aebe-9d2c86540625)
+![WhatsApp Image 2023-10-20 at 20 04 31 (1)](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/a8ec564a-5e8c-4b7e-8110-3aead65d07b2)
+![WhatsApp Image 2023-10-20 at 20 04 31](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/313d7bce-3181-43f8-b136-c5666cdf82e8)
+
+
 
 
 
