@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left"> Desenvolvido com</h3>
+<h3 align="left"> 🛠️ Desenvolvido com</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -34,16 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-# Trabalho-Banco-de-Dados
 ## Etapa 01
 ### Definição do grupo:
-Ana Livia<p>
-Anderson Melo<p>
-Arthur Oliveira<p>
-David Saboia<p>
-Francisco Matheus<p>
-Francisco Ruan<p>
-Kalel Oliveira<p>
+<p align="left">* **Ana Livia** - <br>* **Anderson Melo** - <br>* **Arthur Oliveira** - <br>* **David Saboia** - <br>* **Francisco Matheus** -<br>* **Francisco Ruan** - <br>* **Kalel Oliveira** - <br></p>
 
 ### Etapas 02 e 03
 ### Criação do Modelo Entidade Relacionamento(MER) e Modelo Logico/Relacional:
