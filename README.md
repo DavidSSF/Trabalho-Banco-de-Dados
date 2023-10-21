@@ -36,7 +36,7 @@
 
 ## Etapa 01
 ### Definição do grupo:
-<p align="left"> ** Ana Livia ** - <br>* **Anderson Melo** - <br>* **Arthur Oliveira** - <br>* **David Saboia** - <br>* **Francisco Matheus** -<br>* **Francisco Ruan** - <br>* **Kalel Oliveira** - <br></p>
+<p align="left"> __ Ana Livia __ - <br>Anderson Melo - <br>Arthur Oliveira - <br>David Saboia - <br>Francisco Matheus - <br> Francisco Ruan - <br> Kalel Oliveira - <br></p>
 
 ### Etapas 02 e 03
 ### Criação do Modelo Entidade Relacionamento(MER) e Modelo Logico/Relacional:
