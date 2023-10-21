@@ -36,7 +36,7 @@
 
 ## Etapa 01
 ### 🚀 Definição do grupo:
-<p align="left"> **Ana Livia** -<br>
+<p align="left"> Ana Livia -<br>
   Anderson Melo - Front<br>
   Arthur Oliveira - MER e Logico/Relacional<br>
   David Saboia - Back-end<br>
