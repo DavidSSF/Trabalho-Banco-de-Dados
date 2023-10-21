@@ -204,35 +204,30 @@
                 <table>
                     <thead>
                         <tr>
+                            <th>ID</th>
                             <th>Nome do time</th>
-                            <th>tecnico</th>
-                            <th>titulos</th>
-                            <th>estadio</th>
+                            <th>Estadio</th>
+                            <th>Tecnico</th>
+                            <th>Titulos</th>
                             <th></th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
-                            <td>Flex-Box Tutorial</td>
-                            <td>36452</td>
-                            <td>Paid</td>
-                            <td class="primary">Active</td>
-                            <td class="primary">Details</td>
-                        </tr>
-                        <tr>
-                            <td>Flex-Box Tutorial</td>
-                            <td>36452</td>
-                            <td>Paid</td>
-                            <td class="primary">Active</td>
-                            <td class="primary">Details</td>
-                        </tr>
-                        <tr>
-                            <td>Flex-Box Tutorial</td>
-                            <td>36452</td>
-                            <td>Paid</td>
-                            <td class="primary">Active</td>
-                            <td class="primary">Details</td>
-                        </tr>
+                        <?php
+                        include("../PHP/ler_times.php");
+                        $times = lerTimes();
+                        foreach ($times as $times) {
+
+                            echo "<tr>";
+                            echo "<td>" . $times['id_time'] . "</td>";
+                            echo "<td>" . $times['nome_time'] . "</td>";
+                            echo "<td>" . $times['estadio'] . "</td>";
+                            echo "<td>" . $times['tecnico'] . "</td>";
+                            echo "<td>" . $times['quantidade_titulos'] . "</td>";
+                            echo '<td> <button href="partidas.html" style="z-index:999;">Teste</button></td>';  
+                            echo "</tr>";
+                        }
+                        ?>
                     </tbody>
                 </table>
                 <a href="#">Show All</a>
