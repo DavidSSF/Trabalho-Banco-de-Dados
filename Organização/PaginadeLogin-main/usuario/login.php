@@ -43,10 +43,10 @@
                 </a>
 
                 <div class="social">
-                    <img src="img/facebook.png" alt="facebook">
-                    <img src="img/google.png" alt="google">
-                    <img src="img/twitter.png" alt="twitter">
-                    <a href="#"><img src="img/github.png" alt="github"></a>
+                    <img src="../img/facebook.png" alt="facebook">
+                    <img src="../img/google.png" alt="google">
+                    <img src="../img/twitter.png" alt="twitter">
+                    <a href="https://github.com/DavidSSF/Trabalho-Banco-de-Dados"><img src="../img/github.png" alt="github"></a>
                 </div>
             </div>
         </div>
