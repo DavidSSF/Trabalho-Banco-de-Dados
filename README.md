@@ -10,7 +10,7 @@ Neste projeto com fins de aprimorar nosso conhecimento quanto a linguagens já e
 
 <h3 align="left">👩‍💻  Desenvolvedores </h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Livia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liviacarvalho07)
+[![GitHub](https://img.shields.io/badge/GitHub-Livia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liviacarvalho07) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-Anderson-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0AndersonMelo0)
 [![GitHub](https://img.shields.io/badge/GitHub-Arthur-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArthurOliveeira)
 [![GitHub](https://img.shields.io/badge/GitHub-David-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidSSF)
