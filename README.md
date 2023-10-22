@@ -55,6 +55,18 @@ A partir do anterior, geramos o Modelo Lógico
 
 ## Etapas 04,05 e 6
 ### Criação do Banco de Dados:
+Passando para o modelo físico, o código SQL é gerado, tendo assim, as tabelas e os atributos das referidas entidades, como é possível ver abaixo.
+
+```
+CREATE TABLE usuarios(
+    id_usuario INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    nome_usuario VARCHAR(50) NOT NULL,
+    senha_usuario VARCHAR(50) NOT NULL
+);
+
+```
 ![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111543203/c7b6de86-a1e9-4dff-a981-1cd469a1d3d2)
 
-Passando para o modelo físico, o código SQL é gerado, tendo assim, as tabelas e os atributos das referidas entidades.
+### Aparência da aplicação: 
+Basicamente o usuário pode acessar sua conta ou cadastrar-se para ter acesso à aplicação.
+
