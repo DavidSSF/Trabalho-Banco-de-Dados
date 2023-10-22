@@ -42,10 +42,12 @@ Neste projeto com fins de aprimorar nosso conhecimento quanto a linguagens já e
 >Kalel Oliveira - MER e Logico/Relacional <br>
 
 ## Etapas 02 e 03
-### Criação do Modelo Entidade Relacionamento(MER) e Modelo Logico/Relacional:
+### Criação do Modelo Entidade Relacionamento(MER): 
 <div align="center">
   <img height= "350" width="700" src="https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/a8ec564a-5e8c-4b7e-8110-3aead65d07b2"/>
   <br>
+
+### Criação do Modelo Lógico:
   <img height= "350" width="700" src="https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/313d7bce-3181-43f8-b136-c5666cdf82e8"/>
 </div>
 
