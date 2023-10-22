@@ -16,8 +16,11 @@ CREATE TABLE timee(
 );
 
 -- Criação da tabela jogador
+ALTER TABLE jogadores ADD COLUMN imagem_jogador TEXT;
+
 CREATE TABLE jogador(
     id_jogador INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    imagem_jogador VARCHAR(400);
     nome_jogador VARCHAR(250) NOT NULL,
     posicao VARCHAR(3) NOT NULL,
     idade INT NOT NULL,
