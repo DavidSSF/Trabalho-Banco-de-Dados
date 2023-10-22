@@ -63,7 +63,6 @@ CREATE TABLE usuarios(
     nome_usuario VARCHAR(50) NOT NULL,
     senha_usuario VARCHAR(50) NOT NULL
 );
-
 ```
 ![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111543203/c7b6de86-a1e9-4dff-a981-1cd469a1d3d2)
 
