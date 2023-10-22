@@ -9,13 +9,13 @@
 Neste projeto com fins de aprimorar nosso conhecimento quanto a linguagens já estudadas, torna-se evidente o domínio de tais conteúdos a partir da criação de um banco de dados funcional. Este banco visa armazenar e gerenciar informações relacionadas à Confederação Brasileira de Futebol, como jogadores, clubes, partidas, estatísticas, entre outros dados relevantes.
 <h3 align="left">👩‍💻  Desenvolvedores </h3>
 
-> Ana Livia <p>
-> Anderson Melo <p>
-> Arthur Oliveira<p>
-> David Saboia<p>
-> Matheus Soares<p>
-> Ruan Marques<p>
-> Kalel Oliveira<p>
+[![GitHub](https://img.shields.io/badge/GitHub-Livia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liviacarvalho07)
+[![GitHub](https://img.shields.io/badge/GitHub-Anderson-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0AndersonMelo0)
+[![GitHub](https://img.shields.io/badge/GitHub-Arthur-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArthurOliveeira)
+[![GitHub](https://img.shields.io/badge/GitHub-David-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidSSF)
+[![GitHub](https://img.shields.io/badge/GitHub-Matheus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheussoares1)
+[![GitHub](https://img.shields.io/badge/GitHub-Ruan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/28082006ruan123)
+[![GitHub](https://img.shields.io/badge/GitHub-Kalel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KalelOliveira)
 
 ###
 
@@ -32,7 +32,13 @@ Neste projeto com fins de aprimorar nosso conhecimento quanto a linguagens já e
 
 ## Etapa 01
 ### 🚀 Definição do grupo:
-<p align="left"> Ana Livia -<br>
+<p align="left"> > Ana Livia - <p>
+> Anderson Melo - Front<p>
+> Arthur Oliveira<p>
+> David Saboia<p>
+> Matheus Soares<p>
+> Ruan Marques<p>
+> Kalel Oliveira<p> Ana Livia -<br>
   Anderson Melo - Front<br>
   Arthur Oliveira - MER e Logico/Relacional<br>
   David Saboia - Back-end<br>
