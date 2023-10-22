@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
     <link rel="stylesheet" href="css/style.css">
-    <title>Responsive Dashboard Design #1 | AsmrProg</title>
+    <title>Confederação Brasileira de Futebol</title>
 </head>
 
 <body>
@@ -89,62 +89,10 @@
         <!-- Main Content -->
         <main>
             <h1>Confederação Brasileira de Futebol</h1>
-            <!-- Analyses -->
-            <div class="analyse">
-                <div class="sales">
-                    <div class="status">
-                        <div class="info">
-                            <h3>Total Sales</h3>
-                            <h1>$65,024</h1>
-                        </div>
-                        <div class="progresss">
-                            <svg>
-                                <circle cx="38" cy="38" r="36"></circle>
-                            </svg>
-                            <div class="percentage">
-                                <p>+81%</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="visits">
-                    <div class="status">
-                        <div class="info">
-                            <h3>Site Visit</h3>
-                            <h1>24,981</h1>
-                        </div>
-                        <div class="progresss">
-                            <svg>
-                                <circle cx="38" cy="38" r="36"></circle>
-                            </svg>
-                            <div class="percentage">
-                                <p>-48%</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="searches">
-                    <div class="status">
-                        <div class="info">
-                            <h3>Searches</h3>
-                            <h1>14,147</h1>
-                        </div>
-                        <div class="progresss">
-                            <svg>
-                                <circle cx="38" cy="38" r="36"></circle>
-                            </svg>
-                            <div class="percentage">
-                                <p>+21%</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End of Analyses -->
 
             <!-- New Users Section -->
             <div class="new-users">
-                <h2>Jogadores destaques</h2>
+                <h2>Jogadores homenagem</h2>
                 <div class="user-list">
                     <div class="user">
                         <img
@@ -159,64 +107,33 @@
                         <img src="https://i.pinimg.com/736x/5d/d5/6f/5dd56fff3769e6e5e42828ecd0c9a1aa.jpg">
                         <h2>Garrincha</h2>
                     </div>
+                    <div class="user">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Bra-Cos_%281%29_%28cropped%29.jpg">
+                        <h2>Neymar</h2>
+                    </div>
+                    <div class="user">
+                        <img src="https://lncimg.lance.com.br/cdn-cgi/image/width=1920,quality=75,format=webp/uploads/2018/11/15/5bedcf90501e4.jpeg">
+                        <h2>Ronaldo F</h2>
+                    </div>
+                    <div class="user">
+                        <img src="https://www.ogol.com.br/img/jogadores/91/670991_ori__20200504125046_ronaldinho_gaucho.jpg">
+                        <h2>Ronaldinho Gaúcho</h2>
+                    </div>
+                    <div class="user">
+                        <img src="https://alchetron.com/cdn/romario-584a31a3-c760-4546-92da-656f00f81e1-resize-750.jpeg">
+                        <h2>Romário</h2>
+                    </div>
+                    <div class="user">
+                        <img src="https://urubuinterativo.com/wp-content/uploads/2022/05/fa05985b336231fd7f2b3f9a11460739.jpg">
+                        <h2>Roberto Carlos</h2>
+                    </div>
+                    <div class="user">
+                        <img src="https://www.ogol.com.br/img/jogadores/58/764858_ori__20210323231729_kaka.jpg">
+                        <h2>Kaká</h2>
+                    </div>
                 </div>
             </div>
             <!-- End of New Users Section -->
-
-            <!-- Recent Orders Table -->
-            <div class="recent-orders">
-                <h2>Recent Orders</h2>
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Course Name</th>
-                            <th>Course Number</th>
-                            <th>Payment</th>
-                            <th>Status</th>
-                            <th></th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>JavaScript Tutorial</td>
-                            <td>85743</td>
-                            <td>Due</td>
-                            <td class="warning">Pending</td>
-                            <td class="primary">Details</td>
-                        </tr>
-                        <tr>
-                            <td>CSS Full Course</td>
-                            <td>97245</td>
-                            <td>Refunded</td>
-                            <td class="danger">Declined</td>
-                            <td class="primary">Details</td>
-                        </tr>
-                        <tr>
-                            <td>Flex-Box Tutorial</td>
-                            <td>36452</td>
-                            <td>Paid</td>
-                            <td class="primary">Active</td>
-                            <td class="primary">Details</td>
-                        </tr>
-                        <tr>
-                            <td>Flex-Box Tutorial</td>
-                            <td>36452</td>
-                            <td>Paid</td>
-                            <td class="primary">Active</td>
-                            <td class="primary">Details</td>
-                        </tr>
-                        <tr>
-                            <td>Flex-Box Tutorial</td>
-                            <td>36452</td>
-                            <td>Paid</td>
-                            <td class="primary">Active</td>
-                            <td class="primary">Details</td>
-                        </tr>
-                    </tbody>
-                </table>
-                <a href="#">Show All</a>
-            </div>
-            <!-- End of Recent Orders -->
 
         </main>
         <!-- End of Main Content -->
@@ -246,63 +163,6 @@
                 <div class="logo">
                     <img src="../img/cbf.png">
                 </div>
-            </div>
-
-            <div class="reminders">
-                <div class="header">
-                    <h2>Reminders</h2>
-                    <span class="material-icons-sharp">
-                        notifications_none
-                    </span>
-                </div>
-
-                <div class="notification">
-                    <div class="icon">
-                        <span class="material-icons-sharp">
-                            volume_up
-                        </span>
-                    </div>
-                    <div class="content">
-                        <div class="info">
-                            <h3>Workshop</h3>
-                            <small class="text_muted">
-                                08:00 AM - 12:00 PM
-                            </small>
-                        </div>
-                        <span class="material-icons-sharp">
-                            more_vert
-                        </span>
-                    </div>
-                </div>
-
-                <div class="notification deactive">
-                    <div class="icon">
-                        <span class="material-icons-sharp">
-                            edit
-                        </span>
-                    </div>
-                    <div class="content">
-                        <div class="info">
-                            <h3>Workshop</h3>
-                            <small class="text_muted">
-                                08:00 AM - 12:00 PM
-                            </small>
-                        </div>
-                        <span class="material-icons-sharp">
-                            more_vert
-                        </span>
-                    </div>
-                </div>
-
-                <div class="notification add-reminder">
-                    <div>
-                        <span class="material-icons-sharp">
-                            add
-                        </span>
-                        <h3>Add Reminder</h3>
-                    </div>
-                </div>
-
             </div>
 
         </div>
