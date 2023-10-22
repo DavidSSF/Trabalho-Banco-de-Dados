@@ -33,14 +33,13 @@ Neste projeto com fins de aprimorar nosso conhecimento quanto a linguagens já e
 
 ## Etapa 01
 ### 🚀 Definição do grupo:
-<p align="left"> > Ana Livia - <br>
+> Ana Livia - <br>
 > Anderson Melo - Front<br>
 > Arthur Oliveira - MER e Logico/Relacional<br>
 > David Saboia - Back-end<br>
 >Francisco Matheus - Back-end<br> 
 >Francisco Ruan - Front<br> 
 >Kalel Oliveira - MER e Logico/Relacional <br>
-</p>
 
 ## Etapas 02 e 03
 ### Criação do Modelo Entidade Relacionamento(MER) e Modelo Logico/Relacional:
