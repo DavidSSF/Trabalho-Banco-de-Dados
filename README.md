@@ -4,9 +4,6 @@
 </div>
 
 ###
-
-###
-
 <h1 align="center">Sistema de Gerenciamento CBF (Confederação Brasileira de Futebol) ⚽</h1>
 
 ###
