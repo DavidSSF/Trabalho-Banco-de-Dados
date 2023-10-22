@@ -7,6 +7,7 @@
 <h1 align="center">Sistema de Gerenciamento CBF (Confederação Brasileira de Futebol) ⚽</h1>
 
 Neste projeto com fins de aprimorar nosso conhecimento quanto a linguagens já estudadas, torna-se evidente o domínio de tais conteúdos a partir da criação de um banco de dados funcional. Este banco visa armazenar e gerenciar informações relacionadas à Confederação Brasileira de Futebol, como jogadores, clubes, partidas, estatísticas, entre outros dados relevantes.
+
 <h3 align="left">👩‍💻  Desenvolvedores </h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Livia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liviacarvalho07)
