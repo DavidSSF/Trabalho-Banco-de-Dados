@@ -79,11 +79,11 @@
         <main>
             <h1>Confederação Brasileira de Futebol</h1>
 
-            <a href="CRUD/time.php"><button style="margin-left: -30vw;">Times</button></a>
-            <a href="CRUD/jogador.php"><button style="margin-left: -15vw;">Jogadores</button></a>
-            <a href="../../../Relatorios"><button style="background: orange;">Reletorios</button></a>
-            <a href="CRUD/campeonato.php"><button style="margin-left: 15vw;">Campeonatos</button></a>
-            <a href="CRUD/partidas.php"><button style="margin-left: 30vw;">Partidas</button></a>
+            <a href="CRUD/time.php" target="_blank"><button style="margin-left: -30vw;">Times</button></a>
+            <a href="CRUD/jogador.php" target="_blank"><button style="margin-left: -15vw;">Jogadores</button></a>
+            <a href="../../../Relatorios" target="_blank"><button style="background: orange;">Reletorios</button></a>
+            <a href="CRUD/campeonato.php" target="_blank"><button style="margin-left: 15vw;">Campeonatos</button></a>
+            <a href="CRUD/partidas.php" target="_blank"><button style="margin-left: 30vw;">Partidas</button></a>
 
         </main>
         <!-- End of Main Content -->
