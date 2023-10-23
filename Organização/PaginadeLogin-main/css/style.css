@@ -12,18 +12,18 @@
 p {
     cursor: pointer;
     font-weight: 600;
-    color: greenyellow;
+    color: #029C55;
 }
 
 h1 {
     font-size: 1.8em;
-    color: greenyellow;
+    color: #029C55;
     padding: 0px 0px 35px 15px;
 }
 
 h2 {
     font-size: 1.4em;
-    color: greenyellow;
+    color: #029C55;
 }
 
 input {
@@ -43,7 +43,7 @@ button {
     height: 35px;
     border: none;
     border-radius: 5px;
-    background: greenyellow;
+    background: #029C55;
 }
 
 body {
@@ -58,6 +58,8 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+
 
     #container {
         width: 320px;
