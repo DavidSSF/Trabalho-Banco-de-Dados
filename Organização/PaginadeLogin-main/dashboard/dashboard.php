@@ -62,7 +62,7 @@
                     <span class="material-icons-sharp">
                         settings
                     </span>
-                    <h3>Crud</h3>
+                    <h3>CRUD</h3>
                 </a>
                 <a href="../index.php">
                     <span class="material-icons-sharp">
