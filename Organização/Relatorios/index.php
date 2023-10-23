@@ -8,6 +8,7 @@ include("relatorios.php");
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Relatório com Gráficos</title>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div id="titulos_chart" style="width: 400px; height: 300px;"></div>
