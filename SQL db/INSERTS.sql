@@ -25,7 +25,7 @@ INSERT INTO usuarios (nome_usuario, senha_usuario) VALUES
 
 --INSERTS TIME
 INSERT INTO timee (escudo, nome_time, estadio, tecnico, quantidade_titulos) 
-VALUES ('', 'Corinthians Paulista', 'Estádio Olímpico Joaquim Cláudio Toledo', 'Fernando José Pitino', 35);
+VALUES ('https://upload.wikimedia.org/wikipedia/commons/3/38/Cear%C3%A1_Sporting_Club_logo.svg', 'Ceará Sporting Club', 'Estádio Castelão', 'Vagner Mancini', 999);
 INSERT INTO timee (escudo, nome_time, estadio, tecnico, quantidade_titulos) 
 VALUES ('', 'Palmeiras', 'Estádio Major Osvaldo Moreira Lima', 'Marcos Gomes Nunes', 55);
 INSERT INTO timee (escudo, nome_time, estadio, tecnico, quantidade_titulos) 
