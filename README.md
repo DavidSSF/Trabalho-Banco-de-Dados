@@ -29,6 +29,10 @@ Neste projeto com fins de aprimorar nosso conhecimento quanto a linguagens já e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+
+
+###
 </div>
 
 ## Etapa 01
