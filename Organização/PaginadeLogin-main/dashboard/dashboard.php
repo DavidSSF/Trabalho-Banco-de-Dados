@@ -112,34 +112,28 @@
             <div class="new-users">
                 <h2>Times Cadastrados</h2>
                 <div class="user-list">
-                <?php
-            // Inclua o arquivo de configuração do banco de dados
-            require_once(__DIR__ . '/../PHP/config.php');
+                    <?php
+                    // Inclua o arquivo de configuração do banco de dados
+                    require_once(__DIR__ . '/../PHP/config.php');
 
-            // Consulta para selecionar todos os times da tabela "timee"
-            $sql = "SELECT escudo, nome_time FROM timee";
-            $result = $mysqli->query($sql);
+                    // Consulta para selecionar todos os times da tabela "timee"
+                    $sql = "SELECT escudo, nome_time FROM timee";
+                    $result = $mysqli->query($sql);
 
-            if ($result->num_rows > 0) {
-                echo '<div class="new-users">';
+                    if ($result->num_rows > 0) {
 
-                echo '<div class="user-list">';
+                        while ($row = $result->fetch_assoc()) {
+                            echo '<div class="user">';
+                            echo '<img src="' . $row['escudo'] . '">';
+                            echo '<h2>' . $row['nome_time'] . '</h2>';
+                            echo '</div>';
+                        }
+                    } else {
+                        echo 'Nenhum time encontrado no banco de dados.';
+                    }
 
-                while ($row = $result->fetch_assoc()) {
-                    echo '<div class="user">';
-                    echo '<img src="' . $row['escudo'] . '">';
-                    echo '<h2>' . $row['nome_time'] . '</h2>';
-                    echo '</div>';
-                }
-
-                echo '</div>';
-                echo '</div>';
-            } else {
-                echo 'Nenhum time encontrado no banco de dados.';
-            }
-
-            // Feche a conexão com o banco de dados
-            ?>
+                    // Feche a conexão com o banco de dados
+                    ?>
                 </div>
             </div>
 
