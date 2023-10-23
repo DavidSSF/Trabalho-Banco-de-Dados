@@ -69,6 +69,6 @@ CREATE TABLE usuarios(
 ```
 ![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111543203/c7b6de86-a1e9-4dff-a981-1cd469a1d3d2)
 
-### Aparência da aplicação: 
+### Interface da aplicação: 
 Basicamente o usuário pode acessar sua conta ou cadastrar-se para ter acesso à aplicação.
 
