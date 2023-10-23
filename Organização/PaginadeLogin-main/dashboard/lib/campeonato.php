@@ -84,7 +84,7 @@
                 <div class="user-list">
                     <div class="user">
                         <img
-                            src="https://static.wikia.nocookie.net/futebol/images/3/37/Copa_do_Brasil_logo.png/revision/latest?cb=20211214152944">
+                            src="https://logodownload.org/wp-content/uploads/2018/10/copa-do-brasil-logo-5.png">
                         <h2>Copa do Brasil</h2>
                     </div>
                     <div class="user">
