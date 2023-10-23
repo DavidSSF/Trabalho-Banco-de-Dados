@@ -50,10 +50,12 @@ Neste projeto com fins de aprimorar nosso conhecimento quanto a linguagens já e
 Iniciamos o projeto relacionando as entidades (5 ao total) entre si por meio do Modelo Entidade Relacionamento(MER), como é visto abaixo.
 
   <img height= "350" width="700" src="https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/313d7bce-3181-43f8-b136-c5666cdf82e8"/>
+  
 ### Criação do Modelo Lógico:
 A partir do anterior, geramos o Modelo Lógico 
 
   <img height= "350" width="700" src="https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/a8ec564a-5e8c-4b7e-8110-3aead65d07b2"/>
+  
   <br>
 
 ## Etapas 04,05 e 6
