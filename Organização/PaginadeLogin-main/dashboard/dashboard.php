@@ -96,11 +96,13 @@
                         <h2>Garrincha</h2>
                     </div>
                     <div class="user">
-                        <img src="https://lncimg.lance.com.br/cdn-cgi/image/width=1920,quality=75,format=webp/uploads/2018/11/15/5bedcf90501e4.jpeg">
+                        <img
+                            src="https://lncimg.lance.com.br/cdn-cgi/image/width=1920,quality=75,format=webp/uploads/2018/11/15/5bedcf90501e4.jpeg">
                         <h2>Ronaldo F</h2>
                     </div>
                     <div class="user">
-                        <img src="https://www.ogol.com.br/img/jogadores/91/670991_ori__20200504125046_ronaldinho_gaucho.jpg">
+                        <img
+                            src="https://www.ogol.com.br/img/jogadores/91/670991_ori__20200504125046_ronaldinho_gaucho.jpg">
                         <h2>Ronaldinho G</h2>
                     </div>
                 </div>
@@ -108,16 +110,70 @@
             <!-- End of New Users Section -->
 
             <div class="new-users">
-                <h2>Homenagem a jogadores</h2>
+                <h2>Times Cadastrados</h2>
                 <div class="user-list">
+                <?php
+            // Inclua o arquivo de configuração do banco de dados
+            require_once(__DIR__ . '/../PHP/config.php');
 
+            // Consulta para selecionar todos os times da tabela "timee"
+            $sql = "SELECT escudo, nome_time FROM timee";
+            $result = $mysqli->query($sql);
+
+            if ($result->num_rows > 0) {
+                echo '<div class="new-users">';
+
+                echo '<div class="user-list">';
+
+                while ($row = $result->fetch_assoc()) {
+                    echo '<div class="user">';
+                    echo '<img src="' . $row['escudo'] . '">';
+                    echo '<h2>' . $row['nome_time'] . '</h2>';
+                    echo '</div>';
+                }
+
+                echo '</div>';
+                echo '</div>';
+            } else {
+                echo 'Nenhum time encontrado no banco de dados.';
+            }
+
+            // Feche a conexão com o banco de dados
+            ?>
                 </div>
             </div>
 
             <div class="new-users">
-                <h2>Homenagem a jogadores</h2>
+                <h2>jogadores Cadastrados</h2>
                 <div class="user-list">
-                    
+                    <?php
+                    // Inclua o arquivo de configuração do banco de dados
+                    require_once(__DIR__ . '/../PHP/config.php');
+
+                    // Consulta para selecionar as imagens dos jogadores e seus nomes da tabela "jogador"
+                    $sql = "SELECT nome_jogador, imagem_jogador FROM jogador";
+                    $result = $mysqli->query($sql);
+
+                    if ($result->num_rows > 0) {
+                        echo '<div class="new-users">';
+
+                        echo '<div class="user-list">';
+
+                        while ($row = $result->fetch_assoc()) {
+                            echo '<div class="user">';
+                            echo '<img src="' . $row['imagem_jogador'] . '">';
+                            echo '<h2>' . $row['nome_jogador'] . '</h2>';
+                            echo '</div>';
+                        }
+
+                        echo '</div>';
+                        echo '</div>';
+                    } else {
+                        echo 'Nenhum jogador encontrado no banco de dados.';
+                    }
+
+                    // Feche a conexão com o banco de dados
+                    ?>
                 </div>
             </div>
         </main>
