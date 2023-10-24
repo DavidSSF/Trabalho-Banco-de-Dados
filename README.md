@@ -82,5 +82,7 @@ Basicamente o usuário pode acessar sua conta ou cadastrar-se para ter acesso à
 ![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/31f6ee74-4a61-4dd0-86f7-95d98885cbc8)
 <br>
 ![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/6e9b4771-475d-4dfd-8a79-1051995678da)
+<br>
+![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/b9f51274-b045-42b3-975c-26c6b56dd27c)
 
 
