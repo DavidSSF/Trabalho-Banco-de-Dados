@@ -73,4 +73,4 @@ CREATE TABLE usuarios(
 
 ### Interface da aplicação: 
 Basicamente o usuário pode acessar sua conta ou cadastrar-se para ter acesso à aplicação e suas funções.
-![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111543203/e812c524-db38-44f3-b53c-901e0eca2ddd) <br>
+![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111543202/e812c524-db38-44f3-b53c-901e0eca2ddd) <br>
