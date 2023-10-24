@@ -73,4 +73,16 @@ CREATE TABLE usuarios(
 
 ### Interface da aplicação: 
 Basicamente o usuário pode acessar sua conta ou cadastrar-se para ter acesso à aplicação e suas funções.
-![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111543202/e812c524-db38-44f3-b53c-901e0eca2ddd) <br>
+![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/ce60333a-8fd3-40c1-b195-1087d5799d3e)
+<br>
+![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/30ea4f25-f156-48db-a0dd-c074d3e67aea)
+<br>
+![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/a17d73aa-e495-4018-9541-e84d0fa8efa1)
+<br>
+![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/31f6ee74-4a61-4dd0-86f7-95d98885cbc8)
+<br>
+![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/bd56dd19-0bf2-4709-b9fa-33d91b2aaced)
+<br>
+![image](https://github.com/DavidSSF/Trabalho-Banco-de-Dados/assets/111568402/6e9b4771-475d-4dfd-8a79-1051995678da)
+
+
