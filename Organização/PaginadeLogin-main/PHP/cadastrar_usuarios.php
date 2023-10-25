@@ -5,7 +5,17 @@ function cadas()
 
     if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $nome_usuario = $_POST['username'];
-        $senha_usuario = $_POST['password']; // Hash da senha para segurança
+        $senha_usuario = $_POST['password'];
+
+        $sql_verify = "SELECT count(*) as total FROM usuarios WHERE nome_usuario = '$nome_usuario'";
+        $result = $mysqli->query($sql_verify);
+        $row = $result->fetch_assoc();
+        $total = $row['total'];
+        
+        if ($total > 0) {
+            echo '<script>alert("Nome de usuário já existe. Escolha outro.");</script>';
+            return;
+        }
 
         $sql = "INSERT INTO usuarios (nome_usuario, senha_usuario) VALUES ('$nome_usuario', '$senha_usuario')";
 
