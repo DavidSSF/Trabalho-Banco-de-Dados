@@ -37,7 +37,7 @@ Neste projeto com fins de aprimorar nosso conhecimento quanto a linguagens já e
 
 ## Etapa 01
 ### 🚀 Definição do grupo:
-> Ana Livia - Front e Relatora de Documentação<br>
+> Ana Livia - Relatora de Documentação<br>
 > Anderson Melo - Front<br>
 > Arthur Oliveira - MER e Logico/Relacional<br>
 > David Saboia - Back-end<br>
